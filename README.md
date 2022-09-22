@@ -20,14 +20,24 @@ JOINS(https://github.com/192110481/192110481-DBMS/blob/main/experment%209.txt)
 ## experiment 10
 VIEW, INDEX, SEQUENCE(https://github.com/192110481/192110481-DBMS/blob/main/exp%2010)
 ## experiment 11
-Simple programming  exercises using CASE, IF, ITERATE, LEAVE, LOOP
+Simple programming  exercises using CASE, IF, ITERATE, LEAVE, LOOP()
 ## experiment 12
-Simple programming  exercises using REPEAT, WHILE
+Simple programming  exercises using REPEAT, WHILE()
 ## experiment 13
-TCL Commands – COMMIT, ROLLBACK, SAVEPOINT
+TCL Commands – COMMIT, ROLLBACK, SAVEPOINT()
 ## experiment 14
-DCL Commands – GRANT, REVOKE
+DCL Commands – GRANT, REVOKE()
 ## experiment 15
-High Level Programming Extensions-Procedures
+High Level Programming Extensions-Procedures()
 ## experiment 16
-High Level Programming Extensions-Functions
+High Level Programming Extensions-Functions()
+## experiment 17
+High Level Programming Extensions-Cursors()
+## experiment 22
+Case Scenario SQL Queries Implementation for Book Publishing Company(https://github.com/192110481/192110481-DBMS/blob/main/experiment%2022.txt)
+## experiment 23
+Case Scenario SQL Queries Implementation for General Hospital(https://github.com/192110481/192110481-DBMS/blob/main/exp%2023.txt)
+## experiment 24
+Case Scenario SQL Queries Implementation for Car Rental Company(https://github.com/192110481/192110481-DBMS/blob/main/exp%2024.txt)
+## experiment 25
+Case Scenario SQL Queries Implementation for Student Progress Monitoring System(https://github.com/192110481/192110481-DBMS/blob/main/exp%2025.txt)
