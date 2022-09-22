@@ -22,9 +22,9 @@ VIEW, INDEX, SEQUENCE(https://github.com/192110481/192110481-DBMS/blob/main/exp%
 ## experiment 11
 Simple programming  exercises using CASE, IF, ITERATE, LEAVE, LOOP()
 ## experiment 12
-Simple programming  exercises using REPEAT, WHILE()
+Simple programming  exercises using REPEAT, WHILE(https://github.com/192110481/192110481-DBMS/blob/main/experiment%2012.txt)
 ## experiment 13
-TCL Commands – COMMIT, ROLLBACK, SAVEPOINT()
+TCL Commands – COMMIT, ROLLBACK, SAVEPOINT(https://github.com/192110481/192110481-DBMS/blob/main/experiment%2013.txt)
 ## experiment 14
 DCL Commands – GRANT, REVOKE()
 ## experiment 15
