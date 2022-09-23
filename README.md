@@ -20,7 +20,7 @@ JOINS(https://github.com/192110481/192110481-DBMS/blob/main/experment%209.txt)
 ## experiment 10
 VIEW, INDEX, SEQUENCE(https://github.com/192110481/192110481-DBMS/blob/main/exp%2010)
 ## experiment 11
-Simple programming  exercises using CASE, IF, ITERATE, LEAVE, LOOP()
+Simple programming  exercises using CASE, IF, ITERATE, LEAVE, LOOP(https://github.com/192110481/192110481-DBMS/blob/main/exp%2011.txt)
 ## experiment 12
 Simple programming  exercises using REPEAT, WHILE(https://github.com/192110481/192110481-DBMS/blob/main/experiment%2012.txt)
 ## experiment 13
@@ -32,7 +32,7 @@ High Level Programming Extensions-Procedures(https://github.com/192110481/192110
 ## experiment 16
 High Level Programming Extensions-Functions()
 ## experiment 17
-High Level Programming Extensions-Cursors()
+High Level Programming Extensions-Cursors(https://github.com/192110481/192110481-DBMS/blob/main/exp%2017.txt)
 ## experiment 18
 TCL Commands – COMMIT, ROLLBACK()
 ## experiment 19
