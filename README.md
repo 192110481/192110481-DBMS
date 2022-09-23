@@ -26,13 +26,19 @@ Simple programming  exercises using REPEAT, WHILE(https://github.com/192110481/1
 ## experiment 13
 TCL Commands – COMMIT, ROLLBACK, SAVEPOINT(https://github.com/192110481/192110481-DBMS/blob/main/experiment%2013.txt)
 ## experiment 14
-DCL Commands – GRANT, REVOKE()
+DCL Commands – GRANT, REVOKE(https://github.com/192110481/192110481-DBMS/blob/main/exp%2014.txt)
 ## experiment 15
-High Level Programming Extensions-Procedures()
+High Level Programming Extensions-Procedures(https://github.com/192110481/192110481-DBMS/blob/main/exp%2015.txt)
 ## experiment 16
 High Level Programming Extensions-Functions()
 ## experiment 17
 High Level Programming Extensions-Cursors()
+## experiment 18
+TCL Commands – COMMIT, ROLLBACK()
+## experiment 19
+Database Connectivity – Using simple MySQL()
+## experiment 21
+Case Scenario Basic SQL Queries Implementation for HRM database
 ## experiment 22
 Case Scenario SQL Queries Implementation for Book Publishing Company(https://github.com/192110481/192110481-DBMS/blob/main/experiment%2022.txt)
 ## experiment 23
