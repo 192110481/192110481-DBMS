@@ -37,6 +37,8 @@ High Level Programming Extensions-Cursors(https://github.com/192110481/192110481
 TCL Commands – COMMIT, ROLLBACK()
 ## experiment 19
 Database Connectivity – Using simple MySQL(https://github.com/192110481/192110481-DBMS/blob/main/experiment%2019.txt)
+## experiment 20
+Case Scenario Basic SQL Queries Implementation for HRM database()
 ## experiment 21
 Case Scenario Basic SQL Queries Implementation for HRM database(https://github.com/192110481/192110481-DBMS/blob/main/experiment%2021.txt)
 ## experiment 22
